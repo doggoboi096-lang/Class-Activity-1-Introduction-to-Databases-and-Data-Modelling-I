@@ -256,13 +256,13 @@
         <mxCell id="Rhnv0y5m6ftXBDaJLt5c-17" edge="1" parent="1" source="op_WtcoPAFK5E_dp9x6S-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=ERmandOne;endFill=0;startArrow=ERzeroToOne;startFill=0;" target="op_WtcoPAFK5E_dp9x6S-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="650" />
-              <mxPoint x="580" y="650" />
+              <mxPoint x="340" y="560" />
+              <mxPoint x="570" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="op_WtcoPAFK5E_dp9x6S-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" value="DEPARTMENT" vertex="1">
-          <mxGeometry height="130" width="140" x="280" y="690" as="geometry">
+          <mxGeometry height="130" width="140" x="270" y="600" as="geometry">
             <mxRectangle height="30" width="100" x="120" y="550" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -282,7 +282,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="op_WtcoPAFK5E_dp9x6S-12" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" value="STUDENT" vertex="1">
-          <mxGeometry height="182" width="140" x="60" y="690" as="geometry" />
+          <mxGeometry height="182" width="140" x="50" y="600" as="geometry" />
         </mxCell>
         <mxCell id="op_WtcoPAFK5E_dp9x6S-13" parent="op_WtcoPAFK5E_dp9x6S-12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=5" value="Student_ID (PK)" vertex="1">
           <mxGeometry height="26" width="140" y="26" as="geometry" />
@@ -306,7 +306,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="op_WtcoPAFK5E_dp9x6S-37" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" value="FACULTY_MEMBER" vertex="1">
-          <mxGeometry height="182" width="140" x="510" y="690" as="geometry" />
+          <mxGeometry height="182" width="140" x="500" y="600" as="geometry" />
         </mxCell>
         <mxCell id="op_WtcoPAFK5E_dp9x6S-38" parent="op_WtcoPAFK5E_dp9x6S-37" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=5" value="Faculty_ID (PK)" vertex="1">
           <mxGeometry height="26" width="140" y="26" as="geometry" />
@@ -330,7 +330,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="op_WtcoPAFK5E_dp9x6S-44" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" value="COURSE" vertex="1">
-          <mxGeometry height="78" width="140" x="280" y="970" as="geometry" />
+          <mxGeometry height="78" width="140" x="270" y="880" as="geometry" />
         </mxCell>
         <mxCell id="op_WtcoPAFK5E_dp9x6S-45" parent="op_WtcoPAFK5E_dp9x6S-44" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=5" value="Course_ID (PK)" vertex="1">
           <mxGeometry height="26" width="140" y="26" as="geometry" />
@@ -342,7 +342,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="op_WtcoPAFK5E_dp9x6S-51" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" value="PROJECT" vertex="1">
-          <mxGeometry height="78" width="140" x="740" y="690" as="geometry" />
+          <mxGeometry height="78" width="140" x="730" y="600" as="geometry" />
         </mxCell>
         <mxCell id="op_WtcoPAFK5E_dp9x6S-52" parent="op_WtcoPAFK5E_dp9x6S-51" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=5" value="Project_ID (PK)" vertex="1">
           <mxGeometry height="26" width="140" y="26" as="geometry" />
@@ -351,9 +351,9 @@
           <mxGeometry height="26" width="140" y="52" as="geometry" />
         </mxCell>
         <mxCell id="op_WtcoPAFK5E_dp9x6S-54" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBorderColor=none;perimeterSpacing=0;swimlaneFillColor=none;rounded=1;arcSize=25;" value="STUDENT_COURSE" vertex="1">
-          <mxGeometry height="104" width="140" x="60" y="970" as="geometry" />
+          <mxGeometry height="104" width="140" x="50" y="880" as="geometry" />
         </mxCell>
-        <mxCell id="op_WtcoPAFK5E_dp9x6S-55" parent="op_WtcoPAFK5E_dp9x6S-54" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=5" value="Student_ID (PK)" vertex="1">
+        <mxCell id="op_WtcoPAFK5E_dp9x6S-55" parent="op_WtcoPAFK5E_dp9x6S-54" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=5" value="Student_ID (PK, FK)" vertex="1">
           <mxGeometry height="26" width="140" y="26" as="geometry" />
         </mxCell>
         <mxCell id="op_WtcoPAFK5E_dp9x6S-56" parent="op_WtcoPAFK5E_dp9x6S-54" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=5" value="Course_ID (PK)" vertex="1">
@@ -363,18 +363,18 @@
           <mxGeometry height="26" width="140" y="78" as="geometry" />
         </mxCell>
         <mxCell id="Rhnv0y5m6ftXBDaJLt5c-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBorderColor=none;perimeterSpacing=0;swimlaneFillColor=none;rounded=1;arcSize=25;" value="FACULTY_COURSE" vertex="1">
-          <mxGeometry height="78" width="140" x="510" y="970" as="geometry" />
+          <mxGeometry height="78" width="140" x="500" y="880" as="geometry" />
         </mxCell>
-        <mxCell id="Rhnv0y5m6ftXBDaJLt5c-2" parent="Rhnv0y5m6ftXBDaJLt5c-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=5" value="Faculty_ID (PK)" vertex="1">
+        <mxCell id="Rhnv0y5m6ftXBDaJLt5c-2" parent="Rhnv0y5m6ftXBDaJLt5c-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=5" value="Faculty_ID (PK, FK)" vertex="1">
           <mxGeometry height="26" width="140" y="26" as="geometry" />
         </mxCell>
         <mxCell id="Rhnv0y5m6ftXBDaJLt5c-3" parent="Rhnv0y5m6ftXBDaJLt5c-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=5" value="Course_ID (PK)" vertex="1">
           <mxGeometry height="26" width="140" y="52" as="geometry" />
         </mxCell>
         <mxCell id="Rhnv0y5m6ftXBDaJLt5c-5" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBorderColor=none;perimeterSpacing=0;swimlaneFillColor=none;rounded=1;arcSize=25;" value="FACULTY_PROJECT" vertex="1">
-          <mxGeometry height="78" width="140" x="740" y="850" as="geometry" />
+          <mxGeometry height="78" width="140" x="730" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="Rhnv0y5m6ftXBDaJLt5c-6" parent="Rhnv0y5m6ftXBDaJLt5c-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=5" value="Faculty_ID (PK)" vertex="1">
+        <mxCell id="Rhnv0y5m6ftXBDaJLt5c-6" parent="Rhnv0y5m6ftXBDaJLt5c-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=5" value="Faculty_ID (PK, FK)" vertex="1">
           <mxGeometry height="26" width="140" y="26" as="geometry" />
         </mxCell>
         <mxCell id="Rhnv0y5m6ftXBDaJLt5c-7" parent="Rhnv0y5m6ftXBDaJLt5c-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=5" value="Project_ID (PK)" vertex="1">
